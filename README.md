@@ -9,8 +9,8 @@
     <p>The three learning objectives for slicing an onion are ...</p>
     <ul>
       <li> <a href=/materials>Assembling materials</a> </li>
-      <li> Prepping the onion </li>
-      <li> Dicing the onion </li>
+      <li> <a href=/words>Prepping the onion</a> </li>
+      <li> <a href=/words>Dicing the onion</a> </li>
     </ul>
   </body>
 </html>
