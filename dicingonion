@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head> 
+    <meta charset="utf-8">
+    <title>Dicing the onion</title>
+  </head>
+  <body>
+  <p> Now that your onion is prepped, you will need to ...</p>
+  <ol>
+  <li> Place one half of the onion flat side down on the cutting board </li>
+  <li> Cut vertical slices without cutting through the root. The root holds the onion together while you cut. </li>
+  <li> Next, cut horizontal slices </li>
+  <li> Repeat for the second half. </li>
+  <li> Discard the root. </li>
+  </ol>
+  <p><b> You now have a diced onion! </b></p>
+  </body>
+</html>
